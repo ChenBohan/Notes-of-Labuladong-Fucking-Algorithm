@@ -1,2 +1,5 @@
 # Notes-of-Labuladong-Fucking-algorithm
-《labuladong的算法小抄》阅读笔记
+
+参考资料：
+- 《labuladong的算法小抄》
+- Fucking-algorithm：https://github.com/labuladong/fucking-algorithm
